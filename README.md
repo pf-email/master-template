@@ -1,4 +1,8 @@
-<h1>Master Template | November 29, 2021</h1>
+<h1>Master Template | November 30, 2021</h1>
+<h2>&lt;tr&gt; based modules</h2>
+<p>Table row based modules need to be placed in a containing table (like the one available in the boilerplate). Then, module rows can be stacked.</p>
+<p>This helps eliminate white line issues in Outlook.</p>
+
 <h2>Dark Mode Styles</h2>
 <p>The master template now includes dark mode styles, images, and icons. Dark mode works differently across email clients. 
 These different renderings have been accounted for and should require little or no change in how email specialists update modules.</p>
